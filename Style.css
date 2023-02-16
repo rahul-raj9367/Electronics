@@ -17,7 +17,7 @@
     padding: .5rem,5rem;
 }
 .navbar{
-    background-color: #000060;
+    background-color:  #00006f;
 }
 .nav-item a {
     font-weight: 400;
@@ -31,7 +31,7 @@
     margin-top: 20px;
 }
 .searchid input{
-    border: 3px solid #000060;
+    border: 3px solid  #00006f;
 }
 .form-control{
     border-radius: 50px !important;
@@ -71,7 +71,7 @@
 .fast-contact .ul li {
     padding: 10px;
     color: #ffff !important;
-    background-color: #000060;
+    background-color:  #00006f;
     border-radius: 50px;
 }
 .ul{
@@ -159,7 +159,7 @@ img {
 }
 .info input{
     height: 60px !important;
-    border: 3px solid #000060;
+    border: 3px solid  #00006f;
     border-radius: 0% !important;
     margin-bottom: 20px !important;
 }
@@ -174,10 +174,10 @@ img {
     box-shadow: 0 0 10px 0 rgba(40, 39, 39, 0.6);
 }
 #Contact {
-    background-color:  #000060;
+    background-color:  #00006f;
 }
 #contact1{
-    background-color:  #000060;
+    background-color:  #00006f;
 }
 .col-lg-6 p svg{
     color: #ffff !important;
@@ -271,7 +271,7 @@ img {
         margin: 25px;
     }
     .info input{
-        border: 3px solid  #000060;
+        border: 3px solid  #00006f;
         border-radius: 0% !important;
         margin-bottom: 10px !important;
     }
@@ -281,7 +281,7 @@ img {
     }
     .info input{
         height: 50px !important;
-        border: 3px solid #000060;
+        border: 3px solid  #00006f;
         border-radius: 0% !important;
         margin-bottom: 20px !important;
     }
